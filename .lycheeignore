@@ -1,0 +1,5 @@
+# Release-asset mirror repositories are not yet publicly reachable, so an
+# unauthenticated link checker resolves them as 404. Remove these entries once
+# the mirrors are published.
+https://github.com/nebinfra/nebcli-dist
+https://github.com/nebinfra/nebguard-dist
