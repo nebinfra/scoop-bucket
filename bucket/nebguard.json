@@ -1,16 +1,16 @@
 {
-    "version": "5.46.0",
+    "version": "5.47.0",
     "description": "nebguard command-line tool",
     "homepage": "https://github.com/nebinfra/nebguard-dist",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/nebinfra/nebguard-dist/releases/download/v5.46.0/nebguard_5.46.0_windows_amd64.zip",
-            "hash": "a563eecfd66287230c82ec919d4575ed7d0d4bcd081dae42aead1644370610c2"
+            "url": "https://github.com/nebinfra/nebguard-dist/releases/download/v5.47.0/nebguard_5.47.0_windows_amd64.zip",
+            "hash": "57cbc3d0d50f8c577400f383087f0bab391334b0cdc5fa1ff33ee06b79e24c57"
         },
         "arm64": {
-            "url": "https://github.com/nebinfra/nebguard-dist/releases/download/v5.46.0/nebguard_5.46.0_windows_arm64.zip",
-            "hash": "4be19f3cb74d93aca4a69dbcf95aab903ad3af39f760860a482621511d071066"
+            "url": "https://github.com/nebinfra/nebguard-dist/releases/download/v5.47.0/nebguard_5.47.0_windows_arm64.zip",
+            "hash": "40788ee59dd502c724e165652e963c0a6566250db8ca8e09705466f9baf27ff6"
         }
     },
     "bin": "nebguard.exe",
